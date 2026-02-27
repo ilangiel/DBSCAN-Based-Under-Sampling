@@ -1,7 +1,7 @@
 """
 A Cluster-Based Under-Sampling Algorithm for Class-Imbalanced Data (DBSCAN-US)
 ===============================================================================
-Reference: Guzmán-Ponce et al. (2020). MICAI 2020, Chapter 25,
+Reference: Guzmán-Ponce et al. (2020). HAIS 2020, Chapter 25,
            Springer LNAI 12469, pp. 299–310.
 
 This demo implements the DBSCAN-based under-sampling method proposed in the paper:
