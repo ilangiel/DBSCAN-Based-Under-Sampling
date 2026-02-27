@@ -1,6 +1,6 @@
 # DBSCAN-Based Under-Sampling for Class Imbalance
 
-> **Article:** Guzmán-Ponce, A., et al. (2020). *A Cluster-Based Under-Sampling Algorithm for Class-Imbalanced Data*. **MICAI 2020**, Springer LNAI 12469, pp. 299–310. [DOI: 10.1007/978-3-030-61705-9_25](https://doi.org/10.1007/978-3-030-61705-9_25)
+> **Article:** Guzmán-Ponce, A., et al. (2020). *A Cluster-Based Under-Sampling Algorithm for Class-Imbalanced Data*. **HAIS 2020**, Springer LNAI 12469, pp. 299–310. [DOI: 10.1007/978-3-030-61705-9_25](https://doi.org/10.1007/978-3-030-61705-9_25)
 
 ## 📖 Algorithm Overview
 
